@@ -1,0 +1,32 @@
+{
+  "name": "express-fresh",
+  "version": "1.0.0",
+  "description": "Fresh express skeleton to be the backend of the MERN or MEVN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-new-0509/express-fresh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-new-0509/express-fresh/issues"
+  },
+  "homepage": "https://github.com/mr-new-0509/express-fresh#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "config": "^3.3.7",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.2",
+    "nodemon": "^2.0.16"
+  }
+}
