@@ -1,11 +1,11 @@
 # The back-end of Mountains Club's NFT Mint site
 
+## Live site
+[![Live site](readme_images/guide-site.png)](https://mintmountainsclub.ch)
+
 ## Functionality
 - Get the merkle root of whitelisted addresses
 - Get the hex proof of an address
-
-## Live site
-[![Live site](readme_images/guide-site.png)](https://mintmountainsclub.ch)
 
 ## Contact info
 - **Email:** mr.new0509@gmail.com
