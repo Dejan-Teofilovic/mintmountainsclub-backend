@@ -1,2 +1,28 @@
-# express-fresh
-Fresh express skeleton to be the backend of the MERN or MEVN.
+# The back-end of Mountains Club's NFT Mint site
+
+## Functionality
+- Get the merkle root of whitelisted addresses
+- Get the hex proof of an address
+
+## Live site
+[![Live site](readme_images/guide-site.png)](https://mintmountainsclub.ch)
+
+## Contact info
+- **Email:** mr.new0509@gmail.com
+- **Telegram:** [@mrnew0509](https://t.me/mrnew0509)
+- **Skype:** [@sin085](https://join.skype.com/invite/xat3AgpiRVOI)
+
+## Release date
+Nov 16, 2022
+
+## Environment
+- `Node.js v18.12.0`
+
+## Stack
+- **Framework:** `Express.js v4.17.3`
+
+## How to run the project.
+1. Please open terminal window in the root directory.
+2. Please run command `npm run start` in it.
+
+![guide-terminal](readme_images/guide-terminal.png)

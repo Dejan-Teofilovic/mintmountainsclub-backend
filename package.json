@@ -1,5 +1,5 @@
 {
-  "name": "express-fresh",
+  "name": "mtns-backend",
   "version": "1.0.0",
   "description": "Fresh express skeleton to be the backend of the MERN or MEVN.",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-new-0509/express-fresh.git"
+    "url": "git+https://github.com/mr-new-0509/mtns-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mr-new-0509/express-fresh/issues"
+    "url": "https://github.com/mr-new-0509/mtns-backend/issues"
   },
-  "homepage": "https://github.com/mr-new-0509/express-fresh#readme",
+  "homepage": "https://github.com/mr-new-0509/mtns-backend#readme",
   "dependencies": {
     "axios": "^0.26.0",
     "config": "^3.3.7",
