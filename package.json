@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-new-0509/mtns-backend.git"
+    "url": "git+https://github.com/Dejan-Teofilovic/mtns-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mr-new-0509/mtns-backend/issues"
+    "url": "https://github.com/Dejan-Teofilovic/mtns-backend/issues"
   },
-  "homepage": "https://github.com/mr-new-0509/mtns-backend#readme",
+  "homepage": "https://github.com/Dejan-Teofilovic/mtns-backend#readme",
   "dependencies": {
     "axios": "^0.26.0",
     "config": "^3.3.7",
